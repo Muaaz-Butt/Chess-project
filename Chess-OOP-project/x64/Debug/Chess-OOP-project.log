@@ -1,0 +1,18 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Chess.cpp
+E:\OOP Labs\Chess-OOP-project\Chess.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\OOP Labs\Chess-OOP-project\Chess.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Driver.cpp
+E:\OOP Labs\Chess-OOP-project\Chess.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  King.cpp
+  Knight.cpp
+E:\OOP Labs\Chess-OOP-project\Chess.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pawn.cpp
+E:\OOP Labs\Chess-OOP-project\Pawn.cpp(22,11): warning C4129: 'E': unrecognized character escape sequence
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+E:\OOP Labs\Chess-OOP-project\Chess.cpp(228): warning C4715: 'Chess::kingPosition': not all control paths return a value
+  Chess-OOP-project.vcxproj -> E:\OOP Labs\Chess-OOP-project\x64\Debug\Chess-OOP-project.exe
